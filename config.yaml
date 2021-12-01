@@ -1,0 +1,77 @@
+Audio:
+  - aif 
+  - cda 
+  - mid 
+  - midi 
+  - mp3 
+  - mpa 
+  - ogg 
+  - wav 
+  - wma
+Compressed:
+  - 7z 
+  - deb
+  - pkg 
+  - rar 
+  - rpm
+  - tar.gz
+  - z
+  - zip
+  - tgz   
+Code:
+ - js
+ - jsp
+ - html 
+ - ipynb
+ - py
+ - java 
+ - css
+ - go   
+Documents:  
+ - ppt
+ - pptx
+ - pdf
+ - xls
+ - xlsx
+ - doc
+ - docx
+ - txt
+ - tex
+ - epub
+ - csv
+ - odt
+Images:
+ - bmp
+ - gif 
+ - ico
+ - jpeg
+ - jpg
+ - png
+ - JPG
+ - jfif
+ - svg
+ - tif
+ - tiff
+ - PNG
+ - png   
+Softwares:
+ - apk
+ - bat
+ - bin
+ - exe
+ - jar
+ - msi
+Videos:
+ - 3gp
+ - avi
+ - flv
+ - h264
+ - mkv
+ - mov
+ - mp4
+ - mpg
+ - mpeg
+ - wmv
+ - mkv
+Others: 
+ - NONE
