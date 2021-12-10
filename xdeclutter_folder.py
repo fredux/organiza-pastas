@@ -114,9 +114,13 @@ if (not os.path.isdir(str(args.path)) and args.path != None):
 if (args.path !=None):
     downloads_path = args.path
 
-organiza = DeclutterFolder(downloads_path, folder_names)
-organiza.makeFolders()
-organiza.moveFilesReplace()
+res = input("yes/y to Continue other to exit! ")    
+if res.lower() in ["yes", "y"]:
+    organiza = DeclutterFolder(downloads_path, folder_names)
+    organiza.makeFolders()
+    organiza.moveFilesReplace()
+else:
+    print("Exiting ...")
 
 
 
